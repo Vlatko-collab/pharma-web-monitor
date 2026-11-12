@@ -48,4 +48,79 @@ def create_feed(events):
 
     SubElement(channel, "title").text = "Daily Pharma Intelligence Web Monitor"
     SubElement(channel, "description").text = (
-        "Detected changes on monitored
+        "Detected changes on monitored pharma and healthcare websites"
+    )
+    SubElement(channel, "link").text = (
+        "https://github.com/Vlatko-collab/pharma-web-monitor"
+    )
+
+    for event in events:
+        item = SubElement(channel, "item")
+
+        SubElement(item, "title").text = event["name"]
+        SubElement(item, "link").text = event["url"]
+        SubElement(item, "guid").text = event["guid"]
+        SubElement(item, "pubDate").text = event["date"]
+        SubElement(item, "description").text = event["description"]
+
+    ElementTree(rss).write(
+        OUTPUT_FILE,
+        encoding="utf-8",
+        xml_declaration=True,
+    )
+
+
+def main():
+    config = load_json(CONFIG_FILE, {"sites": []})
+    state = load_json(STATE_FILE, {})
+    events = []
+
+    for site in config.get("sites", []):
+        name = site["name"]
+        url = site["url"]
+
+        print(f"Checking: {name} - {url}")
+
+        try:
+            content = fetch_page(url)
+            current_hash = page_hash(content)
+            previous_hash = state.get(url)
+
+            if previous_hash is None:
+                print(f"Initial snapshot created for {name}")
+
+            elif previous_hash != current_hash:
+                print(f"Change detected for {name}")
+
+                now = datetime.now(timezone.utc)
+
+                events.append(
+                    {
+                        "name": f"Website change detected: {name}",
+                        "url": url,
+                        "guid": hashlib.sha256(
+                            f"{url}-{current_hash}".encode("utf-8")
+                        ).hexdigest(),
+                        "date": now.strftime(
+                            "%a, %d %b %Y %H:%M:%S +0000"
+                        ),
+                        "description": (
+                            f"A change was detected on {html.escape(name)}. "
+                            f"Review the source page for new or updated content."
+                        ),
+                    }
+                )
+
+            state[url] = current_hash
+
+        except Exception as error:
+            print(f"ERROR checking {name}: {error}")
+
+    save_json(STATE_FILE, state)
+    create_feed(events)
+
+    print(f"Finished. {len(events)} change(s) detected.")
+
+
+if __name__ == "__main__":
+    main()
