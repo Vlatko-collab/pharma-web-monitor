@@ -100,9 +100,25 @@
       "name": "MZ ZZH",
       "url": "https://mzrss-zzh.com/"
     },
-    {
+        {
       "name": "KZZO SARAJEVO",
       "url": "https://www.kzzosa.ba/"
+    },
+    {
+      "name": "VLADA POSAVINA",
+      "url": "https://www.zupanijaposavska.ba/"
+    },
+    {
+      "name": "ZZO ZZH",
+      "url": "https://zzozzh.com/"
+    },
+    {
+      "name": "MZ KS",
+      "url": "https://mz.ks.gov.ba/"
+    },
+    {
+      "name": "MZ HBZ",
+      "url": "https://www.vladahbz.com/ministarstva/ministarstvo-rada-zdravstva-socijalne-skrbi-i-prognanih/"
     }
   ]
 }
