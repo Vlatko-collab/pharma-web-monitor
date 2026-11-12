@@ -3,6 +3,58 @@
     {
       "name": "VLADA USK",
       "url": "https://vladausk.ba/v4/"
-    }
-  ]
-}
+    },
+    {
+      "name": "ZZO USK",
+      "url": "https://zzousk.ba/"
+    },
+    {
+      "name": "VLADA ZDK",
+      "url": "https://zdk.ba/vlada"
+    },
+    {
+      "name": "MZ ZDK",
+      "url": "https://zdk.ba/ministarstva/ministarstvo-zdravstva"
+    },
+    {
+      "name": "MZ HNK",
+      "url": "https://mzrss-hnz-k.ba/"
+    },
+    {
+      "name": "MZ BPK",
+      "url": "https://ms.bpkg.gov.ba/"
+    },
+    {
+      "name": "FZO BRCKO",
+      "url": "https://fzobrcko.ba/"
+    },
+    {
+      "name": "FMZ FBIH",
+      "url": "https://www.fmoh.gov.ba/"
+    },
+    {
+      "name": "ZZOR FBIH",
+      "url": "https://zzofbih.ba/"
+    },
+    {
+      "name": "MSZS RS",
+      "url": "https://vladars.rs/sr-SP-Cyrl/Vlada/Ministarstva/MZSZ/Pages/default.aspx"
+    },
+    {
+      "name": "FZO RS",
+      "url": "https://zdravstvo-srpske.org/"
+    },
+    {
+      "name": "ZZO BPK",
+      "url": "https://www.zzobpk.ba/"
+    },
+    {
+      "name": "VLADA KS",
+      "url": "https://vlada.ks.gov.ba/"
+    },
+    {
+      "name": "MZ USK",
+      "url": "https://vladausk.ba/v4/index/ministarstvo-zdravstva-i-socijalne-politike/8"
+    },
+    {
+ 
