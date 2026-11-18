@@ -196,7 +196,7 @@
     ]
   },
   "https://zdk.ba/vlada": {
-    "hash": "b5cdcd60dc732a4e76d04458d9ce309568afa0c781f75342f64f893ec367e800",
+    "hash": "593e3a9d759c85928d8fa5593d8fbc3a239cb74c1c633948ea793005c594564a",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -265,7 +265,7 @@
     ]
   },
   "https://zdk.ba/ministarstva/ministarstvo-zdravstva": {
-    "hash": "99328f178aa646362190415c42505f664985e9c9996914158f9b13ff3f22d9a8",
+    "hash": "a07660e8040e566d89b33f796adb97ef5fda2db7220e6b1498793bfc622833d4",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -398,7 +398,7 @@
     ]
   },
   "https://fzobrcko.ba/": {
-    "hash": "ba34205c96cd9d6b7358665863aecb6f014d88b2b8d2056590906fefd850e0ef",
+    "hash": "636d766a274cf0446dfe9004be5596669a52f0fa15616c94b2926c80ad9ef112",
     "links": [
       "https://fzobrcko.ba/",
       "https://fzobrcko.ba/obavezno-osiguranje",
@@ -440,7 +440,7 @@
     ]
   },
   "https://www.fmoh.gov.ba/": {
-    "hash": "e0c1d7df1e47a97a103ddc885ccf36899cb0321274c9f8a8f0ced3321d680c56",
+    "hash": "cfa82fbefafc29c791585f83e368052221fe0dd1fa95232b94527c96146b2802",
     "links": [
       "https://fmoh.gov.ba/stranica/7/ministar",
       "https://fmoh.gov.ba/stranica/9/centar-za-transplantacijsku-medicinu",
@@ -517,7 +517,7 @@
     ]
   },
   "https://vladars.rs/sr-SP-Cyrl/Vlada/Ministarstva/MZSZ/Pages/default.aspx": {
-    "hash": "01c133a92a2dc8fcdf084ea18121da2d3e80ff8d869146dacc112fb85a5f22a0",
+    "hash": "060b63cae756b2a53383a568719670ba6662559b42844a6bbe7106ec0e5ce8ae",
     "links": [
       "https://www.facebook.com/VladaRepublikeSrpske/",
       "https://www.instagram.com/vlada_srpske/",
@@ -710,7 +710,7 @@
     ]
   },
   "https://www.zzobpk.ba/": {
-    "hash": "5837d2b752def09eb529c807555195f769519be8ce0018c7a3549dde61a57802",
+    "hash": "447ad2565ad00c3921f6ca05aea88485eedacfd3ef2c81af12280df4eeb76971",
     "links": [
       "https://www.zzobpk.ba/",
       "https://www.zzobpk.ba/zdravstvenoosiguranje/",
@@ -886,7 +886,7 @@
     ]
   },
   "https://vladausk.ba/v4/index/ministarstvo-zdravstva-i-socijalne-politike/8": {
-    "hash": "49727d360a9ea15f617582803dee8f654a9baa6fc7c73153e6e2833712d501d1",
+    "hash": "5b312d25a28213357d0f491bb0f41297f7c33a305ead5843118e49592a09ff95",
     "links": [
       "http://vladausk.ba/v4/vrsta/aktuelnosti/1",
       "http://vladausk.ba/v4/vrsta/kategorija/9",
@@ -1037,7 +1037,7 @@
     ]
   },
   "https://www.zupanijaposavska.ba/ministarstvo-zdravstva-i-socijalne-politike/": {
-    "hash": "a342a038484d8ad3a9e396dd149ec69c71e1a23f1440195163a45558c6460760",
+    "hash": "a4fe0c22f2c210fb1a51da08e9fe27de31c20600a39b373edd8a744b363dc94a",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -1084,7 +1084,7 @@
     ]
   },
   "https://www.zzozp.ba/": {
-    "hash": "6d52f7beabb834707835bca0c2f06cbcb3600e2a2d6171b23cd245eceb40c65c",
+    "hash": "01496156b26023755ba6c1d06e8d1f0ac89ba89fe425efbeecda52d0e4ca6eaa",
     "links": [
       "https://www.zzozp.ba/",
       "https://www.zzozp.ba/index.php/about",
@@ -1108,7 +1108,7 @@
     ]
   },
   "https://www.vladatk.kim.ba/": {
-    "hash": "d816fea0c44d67701ee10a94fe0e0b36eda3ccbcd781abbf01acd46872d941c8",
+    "hash": "ac91f1e1d03c79768bd926d51556b6c5059644f4159a081bb401fd1585fb4d0a",
     "links": [
       "https://www.vladatk.kim.ba/lang/ba",
       "https://www.vladatk.kim.ba/lang/hr",
@@ -1425,7 +1425,7 @@
     ]
   },
   "https://mztk.ba/": {
-    "hash": "bf8dd15fbdd50ddce54775cdec9d8c657c77293ac389398bbec750f085cbc95b",
+    "hash": "ade56cf885af31b1c39c2171b9905d6b3d3dc2215802a37c02b53a12457ff99a",
     "links": [
       "https://mztk.ba/o-ministarstvu",
       "https://mztk.ba/organizaciona-struktura",
@@ -1599,53 +1599,9 @@
     ]
   },
   "https://sbk-ksb.gov.ba/": {
-    "hash": "b7629ff5aa5d93ccd73202f3ad23287cb349150196be3e84b80669c8ef33768d",
+    "hash": "a1cda5bb1fcdea57db756fea4a9f034b5971f8c3877d79c248e6f9f151f1c688",
     "links": [
-      "https://skupstina.sabor.sbk-ksb.gov.ba/",
-      "https://sbk-ksb.gov.ba/index.php/sjednice-vlade",
-      "https://sbk-ksb.gov.ba/index.php/premijer",
-      "https://sbk-ksb.gov.ba/index.php/sastav-vlade",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-95-ministarstvo-unutra%C5%A1njih-poslova",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-94-ministarstvo-pravosu%C4%91a-i-uprave",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-93-ministarstvo-finansija",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-92-ministarstvo-zdravstva-i-socijalne-politike",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-91-ministarstvo-poljoprivrede,-vodoprivrede-i-%C5%A1umarstva",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-90-ministarstvo-privrede",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-89-ministarstvo-obrazovanja,-znanosti,-kulture-i-sporta",
-      "https://sbk-ksb.gov.ba/index.php/ministarstva/main-88-ministarstvo-prostornog-ure%C4%91enja,-gra%C4%91enja,-za%C5%A1tite-okoli%C5%A1ta,-povratka-i-stambenih-poslova",
-      "https://sbk-ksb.gov.ba/index.php/kantonalne-uprave",
-      "https://sbk-ksb.gov.ba/index.php/kantonalne-uprave/uprave-item-5?Itemid=141",
-      "https://sbk-ksb.gov.ba/index.php/kantonalne-uprave/uprave-item-7?Itemid=140",
-      "https://sbk-ksb.gov.ba/index.php/kantonalne-uprave/uprave-item-8?Itemid=139",
-      "https://sbk-ksb.gov.ba/index.php/kantonalne-uprave/uprave-item-9?Itemid=138",
-      "https://sbk-ksb.gov.ba/index.php/kantonalne-uprave/uprave-item-11?Itemid=133",
-      "https://sbk-ksb.gov.ba/index.php/kantonalne-uprave/europske-integracije?Itemid=130",
-      "https://sbk-ksb.gov.ba/index.php?option=com_content&view=category&layout=blog&id=56&lang=bs",
-      "https://sbk-ksb.gov.ba/index.php?option=com_content&view=category&layout=blog&id=58&lang=bs",
-      "https://sbk-ksb.gov.ba/index.php?option=com_content&view=category&layout=blog&id=40&lang=bs",
-      "https://sbk-ksb.gov.ba/index.php?option=com_content&view=article&id=5013&lang=bs",
-      "https://sbk-ksb.gov.ba/index.php/dokumenti",
-      "https://sbk-ksb.gov.ba/index.php/o-kantonu",
-      "https://sbk-ksb.gov.ba/index.php/sjednice-vlade/sazvana-146-sjednica-vlade-sbk-2026-g",
-      "https://sbk-ksb.gov.ba/index.php/sjednice-vlade/saopstenje-sa-143-sjednice-vlade-sbk-2026-g",
-      "https://sbk-ksb.gov.ba/index.php/sjednice-vlade/sazvana-144-sjednica-vlade-sbk-2026-g",
-      "https://sbk-ksb.gov.ba/index.php/sjednice-vlade/sazvana-143-sjednica-vlade-sbk-2026-g",
-      "https://sbk-ksb.gov.ba/index.php/sjednice-vlade/saopstenje-sa-142-sjednice-vlade-sbk-2026-g",
-      "https://sbk-ksb.gov.ba/index.php/novosti",
-      "https://sbk-ksb.gov.ba/images/NOVINE/Binder1%20sluzbene%20novine%2013-26.pdf",
-      "https://sbk-ksb.gov.ba/files/SN%20-%20br.%2012.pdf",
-      "https://sbk-ksb.gov.ba/images/NOVINE/SN%20-%20SBK%20br.11.pdf",
-      "https://sbk-ksb.gov.ba/images/NOVINE/Sluzbene_novine_sbk_10_2026.pdf",
-      "https://sbk-ksb.gov.ba/images/NOVINE/NOVINE%209-26_compressed.pdf",
-      "https://sbk-ksb.gov.ba/index.php/novosti/studijsko-putovanje-u-linz-prijenos-znanja-i-primjeri-dobre-prakse-u-pametnoj-i-preciznoj-poljoprivredi-u-okviru-projekta-crossmart",
-      "https://sbk-ksb.gov.ba/index.php/novosti/obavjestenje-o-podnesenom-zahtjevu-za-izdavanje-prethodne-vodne-saglasnosti-opcina-travnik-2",
-      "https://sbk-ksb.gov.ba/index.php/novosti/obavjestenje-o-podnesenom-zahtjevu-za-izdavanje-prethodne-vodne-saglasnosti-opcina-busovaca-2",
-      "https://sbk-ksb.gov.ba/index.php/novosti/sazvana-146-sjednica-vlade-sbk-2026-g",
-      "https://sbk-ksb.gov.ba/index.php/novosti/obavijest-o-javnom-pozivu-za-odabir-korisnika-sredstava-za-projekte-podrske-stranim-investicijama-i-zaposljavanju-radnika-koji-se-nalaze-na-privremenom-radu-u-inozemstvu-za-2026-godinu",
-      "https://sbk-ksb.gov.ba/index.php/novosti/recircle-zajedno-prema-odrzivijem-upravljanju-resursima-i-kruznom-gospodarstvu",
-      "https://sbk-ksb.gov.ba/index.php/novosti/sazvana-145-sjednica-vlade-sbk-2026-g",
-      "https://sbk-ksb.gov.ba/index.php/skupstina-sabor/javni-natjecaji"
+      "https://docs.joomla.org/Special:MyLanguage/J4.x:Unsupported_PHP_Version"
     ]
   },
   "https://www.vlada-hnz-k.ba/bs": {
@@ -1682,7 +1638,7 @@
     ]
   },
   "https://www.zzo.ba/": {
-    "hash": "33e48091873e296328fe5bd7aef687f292b39e1c97890ef94907fee4ac78c472",
+    "hash": "dea70d4901991f746d12750aae0ed0b206c9dae91e3a1b8eef76153d9e21a53b",
     "links": [
       "https://www.zzo.ba/hr/eosiguranik",
       "https://www.zzo.ba/hr/o-zavodu/o-zavodu",
@@ -1798,7 +1754,7 @@
     ]
   },
   "https://mzrss-zzh.com/": {
-    "hash": "7a8c4c291272e2f6a9b1fef165f06fe663763a9ec38b6b0430c5befee155dfb6",
+    "hash": "0d1afaac301516c9bc2a232ac555bebd72fc6c4cc8e68fa44b4f6a0d8c19f357",
     "links": [
       "https://mzrss-zzh.com/cdn-cgi/l/email-protection",
       "https://mzrss-zzh.com/index.php/o-ministarstvu",
@@ -1956,7 +1912,7 @@
     ]
   },
   "https://www.zupanijaposavska.ba/": {
-    "hash": "4418bd26b29aa6ed9155d7e70a36c0078952ab9dd519866fd9996662f6019db5",
+    "hash": "43525bcb07d96960de08af1f6541361ed6b2e3afce7e0dacd0d8453330c554c1",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -2005,9 +1961,9 @@
       "https://www.zupanijaposavska.ba/predsjednik-vlade-zp-uputio-izraze-sucuti-obiteljima-stradalih-pripadnika-eufor-a/",
       "https://www.zupanijaposavska.ba/148-sjednica-vlade-zupanije-posavske/",
       "https://www.zupanijaposavska.ba/category/posavina/",
+      "https://www.zupanijaposavska.ba/domaljevac-samac/",
       "https://www.zupanijaposavska.ba/author/admin/",
       "https://www.zupanijaposavska.ba/gospodarstvo/",
-      "https://www.zupanijaposavska.ba/domaljevac-samac/",
       "https://www.zupanijaposavska.ba/turisticka-razglednica-posavine/",
       "https://www.zupanijaposavska.ba/category/ministarstva/",
       "https://www.facebook.com/zupanijaposavska/",
@@ -2059,7 +2015,7 @@
     ]
   },
   "https://mz.ks.gov.ba/": {
-    "hash": "c0278a9728701cedc6fd399400e81ff3447377883b005edceece946745ac9ccd",
+    "hash": "87f35afcfc856fdf1b6fa9357ecaad31cb7bd6edd1f671c443ffbd7fb69eac49",
     "links": [
       "https://mz.ks.gov.ba/",
       "https://mz.ks.gov.ba/kontakti",
@@ -2117,7 +2073,7 @@
     ]
   },
   "https://www.vladahbz.com/ministarstva/ministarstvo-rada-zdravstva-socijalne-skrbi-i-prognanih/": {
-    "hash": "a0f4875ac414a6a5926e6da616e8318d8c7e7f9b699370b1b26053b9f42226b8",
+    "hash": "3a0dceb25aa73235fc9d297c0aae4c206291e5c544a87dc26a33960210511574",
     "links": [
       "https://www.vladahbz.com/ministarstva/ministarstvo-rada-zdravstva-socijalne-skrbi-i-prognanih/",
       "https://www.vladahbz.com/membership-login/",
