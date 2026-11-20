@@ -1,6 +1,6 @@
 {
   "https://vladausk.ba/v4/": {
-    "hash": "e0039504673a250754dd223463ca5e0aaad9cff4fdca47d7c5fdfd482ae1c105",
+    "hash": "295584027d9779cd908cc51872ef53fc72696c9fa2ca01ab0b79b293d4bdc09b",
     "links": [
       "http://vladausk.ba/v4/vrsta/aktuelnosti/1",
       "http://vladausk.ba/v4/vrsta/kategorija/9",
@@ -196,7 +196,7 @@
     ]
   },
   "https://zdk.ba/vlada": {
-    "hash": "1c79769a2974418650128ec0211d5e578b6ff8c102ad045fd12f040ae08402e3",
+    "hash": "96dbc668fb2e5d8c5659a33fbb529c1a1794f022daf3cc93831991e8f2132c9d",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -265,7 +265,7 @@
     ]
   },
   "https://zdk.ba/ministarstva/ministarstvo-zdravstva": {
-    "hash": "c9ca0054b08a90738b1947d7e6789fa4f7b689591bce75b61002de7ee4034ae8",
+    "hash": "24d530c13b06f74f37db829f5b60dd20c66de17679a59a6895aa28bd1cf49d21",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -407,7 +407,7 @@
     ]
   },
   "https://fzobrcko.ba/": {
-    "hash": "2ba1c3f765d3db3a75f96779ad470796356815037512424bb0fdb5d6731a15ad",
+    "hash": "6050078df47184493d91ec411509406ceab9995c35b945cd08a7a5c8e1bee403",
     "links": [
       "https://fzobrcko.ba/",
       "https://fzobrcko.ba/obavezno-osiguranje",
@@ -432,12 +432,12 @@
       "https://fzobrcko.ba/izvjestaji",
       "https://fzobrcko.ba/planovi-rada",
       "https://fzobrcko.ba/e-kartica",
+      "https://fzobrcko.ba/view-more/xi-redovna-sjednica-komisije-za-utvrdivanje-sadrzaja-listi-lijekova/624",
       "https://fzobrcko.ba/view-more/odluka-o-davanju-suglasnosti-za-zakljucivanje-ugovora-o-pruzanju-farmaceutskih-usluga/622",
       "https://fzobrcko.ba/view-more/odluka-o-izmjeni-i-dopuni-odluke-o-utvrdivanju-liste-lijekova-za-lijecenje-rijetkih-bolesti-i-specificnih-stanja/620",
       "https://fzobrcko.ba/view-more/odluka-o-sadrzaju-i-nacinu-vodenja-evidencije-iskljucivih-prava-za-ponovnu-uporabu-dokumenata/618",
       "https://fzobrcko.ba/view-more/x-redovna-sjednica-komisije-za-utvrdivanje-sadrzaja-listi-lijekova/610",
       "https://fzobrcko.ba/view-more/o-d-l-u-k-u-o-izmjeni-i-dopuni-odluke-o-davanju-saglasnosti-za-zakljucivanje-ugovora-sa-zdravstvenim-ustanovama-van-brcko-distrikta-bih/608",
-      "https://fzobrcko.ba/view-more/sjednica-komisije-za-utvrdivanje-sadrzaja-listi-lijekova/606",
       "https://fzobrcko.ba/view-more/javni-konkurs-za-prijem-u-radni-odnos-na-neodredeno-vrijeme/616",
       "https://fzobrcko.ba/view-more/javni-konkurs-za-prijem-u-radni-odnos-na-neodredeno-vrijeme/614",
       "https://fzobrcko.ba/view-more/javni-konkurs-za-prijem-u-radni-odnos-na-odredeno-vrijeme/612",
@@ -449,7 +449,7 @@
     ]
   },
   "https://www.fmoh.gov.ba/": {
-    "hash": "86ec9a3cd122622a9c7e4585d827c148788082306c7a615af55dbd3e911645ca",
+    "hash": "9207428d9e728fe156e305d8590998775995d181c4b7cae2ed98aa7b4495e818",
     "links": [
       "https://fmoh.gov.ba/stranica/7/ministar",
       "https://fmoh.gov.ba/stranica/9/centar-za-transplantacijsku-medicinu",
@@ -526,7 +526,7 @@
     ]
   },
   "https://vladars.rs/sr-SP-Cyrl/Vlada/Ministarstva/MZSZ/Pages/default.aspx": {
-    "hash": "ba5bdeedd3722675bcc23775af03a520b7cfd32f3146c2027d25ce9d7efb459b",
+    "hash": "6fb034d6d7ee9bb2021044b37bd64d00b32ed1d93fdfe9de4f09ca76fb38c65e",
     "links": [
       "https://www.facebook.com/VladaRepublikeSrpske/",
       "https://www.instagram.com/vlada_srpske/",
@@ -619,7 +619,7 @@
     ]
   },
   "https://zdravstvo-srpske.org/": {
-    "hash": "7e81b6d511e1989c640bf7751fcd68caf06e27820c2b221aec37d606b623790b",
+    "hash": "f238b76ff14f06e0b19fb37804bf2aac3fd7c91d16d9a46d7c2d280274effd2a",
     "links": [
       "https://www.google.com/maps/place/Health+insurance+fund+of+RS/@44.7720556,17.1810581,17z/data=!3m1!4b1!4m6!3m5!1s0x475e031e0b0be64b:0x2d58e83da825977d!8m2!3d44.7720518!4d17.183633!16s%2Fg%2F1ptwq49wj?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D",
       "https://zdravstvo-srpske.org/o-fondu/o-nama/organi-fonda/",
@@ -751,7 +751,7 @@
     ]
   },
   "https://vlada.ks.gov.ba/": {
-    "hash": "a081ff99cad17126523c6c004253613283e7d64b86596934f9e068dc73c55db0",
+    "hash": "3b37ee899d0757881447afd2cc3629dc0d2b659e7a3a4129fd45e748b6865235",
     "links": [
       "https://vlada.ks.gov.ba/",
       "https://www.facebook.com/vladakantonasarajevo/",
@@ -876,10 +876,10 @@
       "https://mpu.ks.gov.ba/node/17296",
       "http://mp.ks.gov.ba/aktuelno/obavjestenja/obavijest-za-proizvodace-krompira-3",
       "http://mp.ks.gov.ba/aktuelno/obavjestenja/odluka-po-javnom-pozivu-za-dodjelu-sredstava-za-projekte-u-oblasti-sumarstva",
+      "https://mon.ks.gov.ba/aktuelno/novosti/odrzan-sastanak-upravnog-odbora-i-medunarodna-radionica-u-okviru-projekta",
+      "https://mon.ks.gov.ba/aktuelno/novosti/konacna-lista-dobitnika-sredstava-i-projektnih-prijava-koje-nisu-odobrene-po",
       "https://zis.ks.gov.ba/aktuelno/otklonjene-poteskoce-u-radu-microsoft-365-e-mail-servisa",
       "https://zis.ks.gov.ba/aktuelno/privremene-poteskoce-u-radu-microsoft-365-e-mail-servisa",
-      "https://mon.ks.gov.ba/aktuelno/novosti/konacna-lista-dobitnika-sredstava-i-projektnih-prijava-koje-nisu-odobrene-po",
-      "https://mon.ks.gov.ba/aktuelno/novosti/studijska-posjeta-i-7-sastanak-upravnog-odbora-projekta-rdbih-u-novom-sadu",
       "https://vlada.ks.gov.ba/sites/default/files/2025-07/NOVI - ProgramradaVladeKantonaSarajevoza2025.godinu.pdf",
       "https://vlada.ks.gov.ba/vlada/sastav-vlade/15",
       "http://www.parlament.ba/",
@@ -895,7 +895,7 @@
     ]
   },
   "https://vladausk.ba/v4/index/ministarstvo-zdravstva-i-socijalne-politike/8": {
-    "hash": "977992fe27e247b984b17c713f2086fab0ee198744c4604da4ae79d89e6104a5",
+    "hash": "31992bf658a1cf0633adc0844b4624d645fd63dccdf2ed32d88cbaf3a0139623",
     "links": [
       "http://vladausk.ba/v4/vrsta/aktuelnosti/1",
       "http://vladausk.ba/v4/vrsta/kategorija/9",
@@ -1046,7 +1046,7 @@
     ]
   },
   "https://www.zupanijaposavska.ba/ministarstvo-zdravstva-i-socijalne-politike/": {
-    "hash": "4c4758043f69cdd2967a734fa59fc620ffd2cb4274b79169da29fa7a4b0171c8",
+    "hash": "88ab79405d3b3632fb57d35c29492d40b8837d908088f8e3ccce748065e824e2",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -1069,14 +1069,13 @@
       "https://www.zupanijaposavska.ba/ministarstvo-poljoprivrede-vodoprivrede-i-sumarstva/",
       "https://www.zupanijaposavska.ba/ministarstvo-gospodarstva-rada-i-prostornog-uredenja/",
       "https://www.zupanijaposavska.ba/ministarstvo_branitelja/",
+      "https://www.zupanijaposavska.ba/obavijest-o-neradnom-danu-30/",
       "https://www.zupanijaposavska.ba/kolona-sjecanja-orasje-vukovar-5/",
       "https://www.zupanijaposavska.ba/category/javni-dokumenti/javni-pozivi/",
       "https://www.zupanijaposavska.ba/javni-natjecaj-za-dodjelu-jednogodisnjih-stipendija-redovitim-studentima-za-akademsku-2026-2027-g/",
       "https://www.zupanijaposavska.ba/149-sjednica-vlade-zupanije-posavske/",
       "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-branitelja/",
       "https://www.zupanijaposavska.ba/obavijest-za-korisnike-egzistencijalne-naknade-ministarstva-branitelja-zp/",
-      "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-prosvjeteznanosti-kulture-i-sporta/",
-      "https://www.zupanijaposavska.ba/ministrica-andric-primila-predstavnike-petric-fight-cluba-iz-srnave/",
       "https://www.zupanijaposavska.ba/uspjesno-obiljezen-djecji-tjedan-u-zupaniji-posavskoj-2/",
       "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-zdravstva-i-socijalne-politike/",
       "https://www.zupanijaposavska.ba/author/jelena-dominkovic/",
@@ -1093,7 +1092,7 @@
     ]
   },
   "https://www.zzozp.ba/": {
-    "hash": "17a481b0bdaa6540cf8f161ba975b70f6be2adcf7d800ea07aa635d9cd387f0e",
+    "hash": "56ad856aea82560e710ab2810288d631716615f08dc10c5d034df52718cfeeeb",
     "links": [
       "https://www.zzozp.ba/",
       "https://www.zzozp.ba/index.php/about",
@@ -1117,7 +1116,7 @@
     ]
   },
   "https://www.vladatk.kim.ba/": {
-    "hash": "078653b6274d8c968517f1260e49522644a58a643d5787cb792ef81fc34225ba",
+    "hash": "832a72089e7a5b0a79e6b5c6f11a03c43bfe24dee6089ee1ecc33d26bc286b6a",
     "links": [
       "https://www.vladatk.kim.ba/lang/ba",
       "https://www.vladatk.kim.ba/lang/hr",
@@ -1424,8 +1423,8 @@
       "https://www.vladatk.kim.ba/clanak/program-sufinansiranja-zaposljavanja-doktora-medicine-2024-liste-poslodavacajavnih-zdravstvenih-ustanova-po-javnom-pozivu-od-342024-godine",
       "https://www.vladatk.kim.ba/clanak/program-sufinansiranja-zaposljavanja-doktora-medicine-2024-liste-podnosilaca-zahtjevanezaposlenih-osoba-doktora-medicine-po-javnom-pozivu-od-342024-godine",
       "https://www.vladatk.kim.ba/kategorija/ju-sluzba-za-zaposljavanje",
+      "https://www.vladatk.kim.ba/clanak/potpisivanje-ugovora-za-stipendiranje-deficitarnih-zanimanja",
       "https://www.vladatk.kim.ba/clanak/potpisivanje-ugovora-o-stipendiranju-studenata",
-      "https://www.vladatk.kim.ba/clanak/potpisivanje-ugovora-za-subvencije-boravka-djece-u-predskolskim-ustanovama",
       "http://monitoringzrakatk.info/",
       "https://www.vladatk.kim.ba/registar-administrativnih-postupaka-tk",
       "https://www.vladatk.kim.ba/media/dokumenti/poticaji/Lista_investicionih_poticaja_01.01.2022_31.12.2022.docx",
@@ -1436,7 +1435,7 @@
     ]
   },
   "https://mztk.ba/": {
-    "hash": "bc3fbfb3f9c088f49031b8c3765f0e62587d4b9b142c4457e22977b62d35af02",
+    "hash": "cf977530fe5b977d5d8c00a19bd961ccfd9a7b385dcc12482893df7259823516",
     "links": [
       "https://mztk.ba/o-ministarstvu",
       "https://mztk.ba/organizaciona-struktura",
@@ -1471,7 +1470,7 @@
     ]
   },
   "https://bpkg.gov.ba/": {
-    "hash": "aa1b5d33035b130a7f8865a46311b0001a9963c13749659557758facd5cff402",
+    "hash": "ce7b41a9e68d855f7e2e0aa88eda6e9679aac2af9890559ef621ac7dabc46208",
     "links": [
       "https://bpkg.gov.ba/",
       "https://bpkg.gov.ba//kategorija/vijesti",
@@ -1574,10 +1573,10 @@
       "https://bpkg.gov.ba/sjednice-skupstine/156729/21-redovna-sjednica-skupstine-bpk-gorazde/",
       "https://bpkg.gov.ba/sjednice-skupstine/156727/godisnja-sjednica-skupstine-bpk-gorazde-3/",
       "https://bpkg.gov.ba/sjednice-skupstine/156713/20-redovna-sjednica-skupstine-bpk-gorazde-2/",
+      "https://bpkg.gov.ba/mup/163075/uprava-policije-informacija-za-period-19-20-11-2026-godine/",
       "https://bpkg.gov.ba/mup/163059/uprava-policije-informacija-za-period-18-19-11-2026-godine/",
       "https://bpkg.gov.ba/mup/163032/uprava-policije-informacija-za-period-17-18-11-2026-godine/",
       "https://bpkg.gov.ba/mup/163021/uprava-policije-informacija-za-period-16-17-11-2026-godine/",
-      "https://bpkg.gov.ba/mup/163007/uprava-policije-informacija-za-period-od-13-11-do-16-11-2026-godine/",
       "https://bpkg.gov.ba/konkursi-oglasi-obavjestenja/162607/ponistenje-javnog-oglas-za-prijem-namjestenika-u-ministarstvu-za-privredu-kantonalna-uprava-za-sumarstvo-bpk-gorazde/",
       "https://bpkg.gov.ba/konkursi-oglasi-obavjestenja/162573/javni-oglas-za-prijem-u-radni-odnos-strucni-savjetnik-za-pravne-poslove-centar-za-socijalni-rad/",
       "https://bpkg.gov.ba/konkursi-oglasi-obavjestenja/162515/ponistenje-javnog-oglasa-za-prijem-namjestenika-visi-referent-za-cestovni-promet-u-ministarstvu-za-privredu/",
@@ -1610,7 +1609,7 @@
     ]
   },
   "https://sbk-ksb.gov.ba/": {
-    "hash": "1a0745f1aea98dde51039c09d1e502f9c1604daa95b358baa299bd3592dc679f",
+    "hash": "73860127e732194cebf567db4f3a53d8b01a9ef9709c60ea1b37600ee0568030",
     "links": [
       "https://skupstina.sabor.sbk-ksb.gov.ba/",
       "https://sbk-ksb.gov.ba/index.php/sjednice-vlade",
@@ -1660,7 +1659,7 @@
     ]
   },
   "https://www.vlada-hnz-k.ba/bs": {
-    "hash": "a62b7a81c236b1936604daf087f1a507a91d954017592811cd94c28abc91040b",
+    "hash": "71901ccb4922205cf53fb72b5d2750d4238383ed4c69d6cd09bae41699a3c6d0",
     "links": [
       "https://www.vlada-hnz-k.ba/hr",
       "https://www.vlada-hnz-k.ba/bs",
@@ -1693,7 +1692,7 @@
     ]
   },
   "https://www.zzo.ba/": {
-    "hash": "9e70c5cd9691f3a41f14986d02e173d3d8276f1617412538dbd60727e74816b4",
+    "hash": "0f9b1694c969a9f2330e11b7da9d1480b628c1bf1b97ed221c159fa5dd538592",
     "links": [
       "https://www.zzo.ba/hr/eosiguranik",
       "https://www.zzo.ba/hr/o-zavodu/o-zavodu",
@@ -1809,7 +1808,7 @@
     ]
   },
   "https://mzrss-zzh.com/": {
-    "hash": "d43ea4f88f59f3f7c78ec8e01d339bb2b5add5bd9fc86b5074ca1680fcfef3c2",
+    "hash": "851642839b776208ebb60ed121807ef55d86d9908b4cfecbd0930b53e028aebf",
     "links": [
       "https://mzrss-zzh.com/cdn-cgi/l/email-protection",
       "https://mzrss-zzh.com/index.php/o-ministarstvu",
@@ -1967,7 +1966,7 @@
     ]
   },
   "https://www.zupanijaposavska.ba/": {
-    "hash": "1d28156ee8ed8b4ee4df6999ccb329ae1d466dc0acdc618d51a781718168114b",
+    "hash": "e09b2b01c9f21c4eafee8d761486d389490d25edece033ca89589c3517a7267f",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -1990,14 +1989,13 @@
       "https://www.zupanijaposavska.ba/ministarstvo-poljoprivrede-vodoprivrede-i-sumarstva/",
       "https://www.zupanijaposavska.ba/ministarstvo-gospodarstva-rada-i-prostornog-uredenja/",
       "https://www.zupanijaposavska.ba/ministarstvo_branitelja/",
+      "https://www.zupanijaposavska.ba/obavijest-o-neradnom-danu-30/",
       "https://www.zupanijaposavska.ba/kolona-sjecanja-orasje-vukovar-5/",
       "https://www.zupanijaposavska.ba/category/javni-dokumenti/javni-pozivi/",
       "https://www.zupanijaposavska.ba/javni-natjecaj-za-dodjelu-jednogodisnjih-stipendija-redovitim-studentima-za-akademsku-2026-2027-g/",
       "https://www.zupanijaposavska.ba/149-sjednica-vlade-zupanije-posavske/",
       "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-branitelja/",
       "https://www.zupanijaposavska.ba/obavijest-za-korisnike-egzistencijalne-naknade-ministarstva-branitelja-zp/",
-      "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-prosvjeteznanosti-kulture-i-sporta/",
-      "https://www.zupanijaposavska.ba/ministrica-andric-primila-predstavnike-petric-fight-cluba-iz-srnave/",
       "https://www.zupanijaposavska.ba/author/jelena-dominkovic/",
       "https://www.zupanijaposavska.ba/author/kristina-kristic/",
       "https://www.zupanijaposavska.ba/category/strateski-dokumenti/",
@@ -2006,17 +2004,17 @@
       "https://www.zupanijaposavska.ba/izvjesce-o-razvoju-s-pregledom-provedbe-strategije-razvoja-zupanije-posavske-2021-2027-za-2024-godinu/",
       "https://www.zupanijaposavska.ba/category/izvjesca-mup-a/",
       "https://www.zupanijaposavska.ba/akcija-pojacane-kontrole-sudionika-u-prometu-46/",
-      "https://www.zupanijaposavska.ba/pregled-sigurnosnih-dogadaja-za-vremenski-period-od-16-11-19-11-2026-godine/",
+      "https://www.zupanijaposavska.ba/pregled-sigurnosnih-dogadaja-za-vremenski-period-od-16-11-20-11-2026-godine/",
       "https://www.zupanijaposavska.ba/pu-odzak-raspored-lokacija-na-kojima-ce-se-nalaziti-radar-trucam-tronozac-u-razdoblju-od-16-11-do-30-11-2026-godine/",
       "https://www.zupanijaposavska.ba/pu-orasje-raspored-lokacija-na-kojima-ce-se-nalaziti-radar-trucam-tronozac-u-razdoblju-od-14-11-20-11-2026-godine/",
       "https://www.zupanijaposavska.ba/pregled-sigurnosnih-dogadaja-za-vremenski-period-od-9-11-15-11-2026-godine/",
+      "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-prosvjeteznanosti-kulture-i-sporta/",
+      "https://www.zupanijaposavska.ba/ministrica-andric-primila-predstavnike-petric-fight-cluba-iz-srnave/",
       "https://www.zupanijaposavska.ba/grad-orasje-i-opcina-domaljevac-samac-predstavljeni-na-setnici-kulture-u-sarajevu/",
       "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-prometa-veza-zastite-okolisa/",
       "https://www.zupanijaposavska.ba/visemilijunska-ulaganja-u-magistralne-ceste-zupanije-posavske-podizu-sigurnost-i-kvalitetu-prometa/",
       "https://www.zupanijaposavska.ba/predsjednik-vlade-zp-uputio-izraze-sucuti-obiteljima-stradalih-pripadnika-eufor-a/",
-      "https://www.zupanijaposavska.ba/148-sjednica-vlade-zupanije-posavske/",
       "https://www.zupanijaposavska.ba/category/posavina/",
-      "https://www.zupanijaposavska.ba/gospodarstvo/",
       "https://www.zupanijaposavska.ba/author/admin/",
       "https://www.zupanijaposavska.ba/turisticka-razglednica-posavine/",
       "https://www.zupanijaposavska.ba/domaljevac-samac/",
@@ -2070,7 +2068,7 @@
     ]
   },
   "https://mz.ks.gov.ba/": {
-    "hash": "b5addc46bde94c22ac17f8ca54d304d186714ea6b4005cf96c36691b0a98d9da",
+    "hash": "40c990662137bf871f49d1c5402a376173f9c5ea7d2b7afb43a5f1f4813f16a0",
     "links": [
       "https://mz.ks.gov.ba/",
       "https://mz.ks.gov.ba/kontakti",
@@ -2128,7 +2126,7 @@
     ]
   },
   "https://www.vladahbz.com/ministarstva/ministarstvo-rada-zdravstva-socijalne-skrbi-i-prognanih/": {
-    "hash": "82517c1e335361b14a923d2fd060d3c0423b22a6c6cd5f68c5d17c56d771517a",
+    "hash": "1d68409c00884e950f3cb30161e73b48392b1c6e0a04ef7fce417cdeafbeb107",
     "links": [
       "https://www.vladahbz.com/ministarstva/ministarstvo-rada-zdravstva-socijalne-skrbi-i-prognanih/",
       "https://www.vladahbz.com/membership-login/",
@@ -2180,7 +2178,7 @@
     ]
   },
   "https://sbk-ksb.gov.ba/index.php/ministarstva/main-92-ministarstvo-zdravstva-i-socijalne-politike": {
-    "hash": "381b4cb385491545f09f9fffa12a6df80b96cdf89bd1d64b2a4edfb2b6036da6",
+    "hash": "7085d32b2542ec972289143d5370a1490d5a188075e8edac0480db25f9fd81ce",
     "links": [
       "https://skupstina.sabor.sbk-ksb.gov.ba/",
       "https://sbk-ksb.gov.ba/index.php/sjednice-vlade",
