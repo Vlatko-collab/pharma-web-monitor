@@ -154,7 +154,7 @@
     ]
   },
   "https://zzousk.ba/": {
-    "hash": "4bd99cc187cc03a5eb98cf49634f21a1358ff638e700e4375c4776ce624a8366",
+    "hash": "4a5f6bb673728f354e5ed000c144dd3e8629fe1a78f0d3dcfa7e9b852c99d00b",
     "links": [
       "https://www.zzousk.ba/sadrzaj/o-zavodu/1",
       "https://www.zzousk.ba/sadrzaj/direktor/2",
@@ -171,8 +171,8 @@
       "https://zzousk.ba/",
       "https://www.zzousk.ba/sadrzaj/obavezno-osiguranje/14",
       "https://www.zzousk.ba/sadrzaj/ino-osiguranje/15",
-      "https://www.zzousk.ba/sadrzaj/banjsko-lijecenje/16",
       "https://www.zzousk.ba/sadrzaj/lijecenje-van-kantona/20",
+      "https://www.zzousk.ba/sadrzaj/banjsko-lijecenje/16",
       "https://www.zzousk.ba/sadrzaj/elegitimacija/18",
       "https://www.zzousk.ba/sadrzaj/biomedicinski-pomognuta-oplodnja/19",
       "https://www.zzousk.ba/dokumenti/2",
@@ -196,7 +196,7 @@
     ]
   },
   "https://zdk.ba/vlada": {
-    "hash": "db9f669c52ce355bf4bb2574ef8653e7cff1867c36f8f538c607d218593bf316",
+    "hash": "882a2da056206bbedf5e318ed1626cdfaf4905647c6f14edd22320d1551cb83c",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -254,18 +254,18 @@
       "https://zdk.ba/vijesti/14941-vlada-zdk-vise-od-7-miliona-km-za-zdravstvo-poljoprivredu-i-sport",
       "https://zdk.ba/vijesti/14871-vlada-zdk-izdvojila-600-000-km-za-glavni-projekat-nacionalnog-stadiona-bilino-polje",
       "https://zdk.ba/vijesti/14812-dan-zdk-naslijede-je-temelj-a-razvoj-i-bolja-buducnost-nasa-obaveza",
+      "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/15033-153-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-13-11-2026-godine",
+      "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/15032-152-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-06-11-2026-godine",
       "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/15001-151-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-30-10-2026-godine",
       "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/14988-150-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-23-10-2026-godine",
       "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/14978-149-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-16-10-2026-godine",
       "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/14976-148-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-02-10-2026-godine",
-      "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/14926-147-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-25-09-2026-godine",
-      "https://zdk.ba/sjednice-vlade/usvojeni-akti-sa-sjednica-vlade/379-sjednice-vlade-u-2026-godini/14901-146-sjednica-vlade-zenicko-dobojskog-kantona-odrzana-21-09-2026-godine",
       "https://dobojjug.ba/",
       "https://zavidovici.ba"
     ]
   },
   "https://zdk.ba/ministarstva/ministarstvo-zdravstva": {
-    "hash": "1eed342e8822303666ae15bd42520528b3e2c9996777893f9173a708f7a0bec3",
+    "hash": "694ad9bcb42a377371fac95a3d6f0b9e036330d2d35b32508b052b1308c0fe27",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -407,7 +407,7 @@
     ]
   },
   "https://fzobrcko.ba/": {
-    "hash": "7c6bb0187d81d1d1f9e79483c21d28734a4afb887da16a9124725d33e59009c1",
+    "hash": "f9210a38747af650f0d6a3b9f459ccbfb48f4ec5ced03004af3c6f9c535b67ac",
     "links": [
       "https://fzobrcko.ba/",
       "https://fzobrcko.ba/obavezno-osiguranje",
@@ -449,7 +449,7 @@
     ]
   },
   "https://www.fmoh.gov.ba/": {
-    "hash": "416b9982ebddae5fbc6695865c993da5983252b97840f84cb167d59ada4474a2",
+    "hash": "3fd186dcaa2008d7245d2c0ee1659ca02ca570e6d541ac443d49f484609835da",
     "links": [
       "https://fmoh.gov.ba/stranica/7/ministar",
       "https://fmoh.gov.ba/stranica/9/centar-za-transplantacijsku-medicinu",
@@ -526,7 +526,7 @@
     ]
   },
   "https://vladars.rs/sr-SP-Cyrl/Vlada/Ministarstva/MZSZ/Pages/default.aspx": {
-    "hash": "19ac0c85598d968570b3abfed98e87ecd982bc6c3f23d0669866ee0394531a54",
+    "hash": "9da1bd623dec6adbc2f4c4a404e530b7ec7eee4281ae10218d76259be42cad6a",
     "links": [
       "https://www.facebook.com/VladaRepublikeSrpske/",
       "https://www.instagram.com/vlada_srpske/",
@@ -619,7 +619,7 @@
     ]
   },
   "https://zdravstvo-srpske.org/": {
-    "hash": "3d61653749c8a2073dcac8e36b98706ef8404e1413af849285160c03564b6ab3",
+    "hash": "70c713c837e8eeea8facf4a78c08215233aaade64562f77db64195b25328e570",
     "links": [
       "https://www.google.com/maps/place/Health+insurance+fund+of+RS/@44.7720556,17.1810581,17z/data=!3m1!4b1!4m6!3m5!1s0x475e031e0b0be64b:0x2d58e83da825977d!8m2!3d44.7720518!4d17.183633!16s%2Fg%2F1ptwq49wj?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D",
       "https://zdravstvo-srpske.org/o-fondu/o-nama/organi-fonda/",
@@ -751,7 +751,7 @@
     ]
   },
   "https://vlada.ks.gov.ba/": {
-    "hash": "c8b916ce136e495b15750f80eba8d6a5792c05a9cca9d10335bcc46849f45c4a",
+    "hash": "308ece96b648d41daecb3684cff87fa33e333f5d87806170931c57c263135dc3",
     "links": [
       "https://vlada.ks.gov.ba/",
       "https://www.facebook.com/vladakantonasarajevo/",
@@ -1046,7 +1046,7 @@
     ]
   },
   "https://www.zupanijaposavska.ba/ministarstvo-zdravstva-i-socijalne-politike/": {
-    "hash": "33b6ce595680f347b740eb3e0be567730cef8810d73d186d5a92eb8d3797fe02",
+    "hash": "981ab69f76ec3c91b9f0844d99ac23491e1e347191b22d5778afcb7badbc5fe9",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -1089,7 +1089,7 @@
     ]
   },
   "https://www.zzozp.ba/": {
-    "hash": "7211837d90cfb78803118bed0516d84653d04205d6756921b27356bd3239910e",
+    "hash": "28ef9cf11bfc5e94f1c647fb97dbc98ba07763e8638cf554c3b2207d1d73b595",
     "links": [
       "https://www.zzozp.ba/",
       "https://www.zzozp.ba/index.php/about",
@@ -1113,7 +1113,7 @@
     ]
   },
   "https://www.vladatk.kim.ba/": {
-    "hash": "a60cd54e9422c71481454feffd8492f5eb5b53d6a91d4bfac7a339cdc8ba99f4",
+    "hash": "f91e8fb948556468ee83c8e09e12758507903287b068ba51aa749651b36d31ff",
     "links": [
       "https://www.vladatk.kim.ba/lang/ba",
       "https://www.vladatk.kim.ba/lang/hr",
@@ -1209,6 +1209,7 @@
       "https://www.vladatk.kim.ba/clanak/vlada-tk-intenzivira-aktivnosti-na-rjesavanju-pitanja-naknada-za-prijevoz",
       "https://www.vladatk.kim.ba/clanak/informacija-sa-55-vanredne-sjednice-vlade-tuzlanskog-kantona-1",
       "https://www.vladatk.kim.ba/clanak/informacija-sa-87-redovne-sjednice-vlade-tuzlanskog-kantona-1",
+      "https://www.vladatk.kim.ba/clanak/cestitka-za-dan-drzavnosti-bosne-i-hercegovine",
       "https://www.vladatk.kim.ba/clanak/uprava-policije-mup-tk-oduzeta-opojna-droga-slobode-lisen-ne-36-iz-tuzle",
       "https://www.vladatk.kim.ba/clanak/dodijeljeno-59-stipendija-ucenicima-deficitarnih-zanimanja",
       "https://www.vladatk.kim.ba/clanak/stipendijama-nagradeno-186-nadarenih-ucenika-osnovnih-i-srednjih-skola-tk",
@@ -1216,7 +1217,6 @@
       "https://www.vladatk.kim.ba/clanak/pu-srebrenik-1",
       "https://www.vladatk.kim.ba/clanak/uprava-policije-mup-tk-nastavak-aktivnosti",
       "https://www.vladatk.kim.ba/clanak/potpisan-memorandum-o-razumijevanju-i-strateskoj-saradnji-u-oblasti-unaprijedenja-polozaja-mladih",
-      "https://www.vladatk.kim.ba/clanak/uprava-policije-mup-tk-a-bogatija-za-20-mladih-inspektora-2",
       "https://www.vladatk.kim.ba/kategorija/novosti-iz-ministarstava",
       "https://www.vladatk.kim.ba/clanak/javni-poziv-za-dostavljanje-ponuda-za-zakup-skladsnog-prostora-za-potrebe-smjestaja-roba-kantonalne-direkcije-robnih-rezervi",
       "https://www.vladatk.kim.ba/clanak/ispravak-javnog-poziva-za-javnu-turisticku-infrastrukturu",
@@ -1411,7 +1411,6 @@
       "https://www.vladatk.kim.ba/clanak/obavjestenje-121",
       "https://www.vladatk.kim.ba/kategorija/ministarstvo-finansija-obavjestenja",
       "https://www.vladatk.kim.ba/clanak/poziv-na-ucesce-u-procesu-javnih-konsultacija-o-nacrtu-strategije-za-borbu-protiv-korupcije-tuzlanskog-kantona-za-period-2026-2034-godine",
-      "https://www.vladatk.kim.ba/clanak/azuriran-registar-podataka-o-nosiocima-javnih-funkcija-i-imovini",
       "https://www.vladatk.kim.ba/kategorija/ured-za-borbu-protiv-korupcije-i-upravljanje-kvalitetom",
       "https://www.vladatk.kim.ba/clanak/konsultacije-sa-strankama-u-vezi-registracija-udruzenja-i-upis-promjena-udruzenja",
       "https://www.vladatk.kim.ba/kategorija/ministarstvo-pravosuda-i-uprave-obavjestenja",
@@ -1432,7 +1431,7 @@
     ]
   },
   "https://mztk.ba/": {
-    "hash": "63130373069a36eee4f275f61b10f6b502419dd0a8949af49486f73845456c0c",
+    "hash": "b72bc7ec604f6bd885b5e86d0a1dad961fa6a130578066e2196d9856936664a5",
     "links": [
       "https://mztk.ba/o-ministarstvu",
       "https://mztk.ba/organizaciona-struktura",
@@ -1606,7 +1605,7 @@
     ]
   },
   "https://sbk-ksb.gov.ba/": {
-    "hash": "fb2bc7cdfcc3cfbd5899cf5792052f330fdc28fe2fc0ef804b191120443f886b",
+    "hash": "189fd767198fe8f77f05b0319055b7a043cb23510b4f90fb5255ddc6cde3f71b",
     "links": [
       "https://skupstina.sabor.sbk-ksb.gov.ba/",
       "https://sbk-ksb.gov.ba/index.php/sjednice-vlade",
@@ -1656,7 +1655,7 @@
     ]
   },
   "https://www.vlada-hnz-k.ba/bs": {
-    "hash": "54473cf6b189222934b1106e6171f913ed89698ad15d0392afc97de52cafa1d6",
+    "hash": "52ce6b2ad28b7bc039d705603879c752e7dc6d57ccaf7c268daef3ed8a8e760e",
     "links": [
       "https://www.vlada-hnz-k.ba/hr",
       "https://www.vlada-hnz-k.ba/bs",
@@ -1689,7 +1688,7 @@
     ]
   },
   "https://www.zzo.ba/": {
-    "hash": "38968bccd94b6ac52f584e350967c8cb36fd2a87a4afab252ee785333d7c8412",
+    "hash": "a4af6c82b1b575a381c436ea676499a9950c2c6fb47bef952a5524dce2926d64",
     "links": [
       "https://www.zzo.ba/hr/eosiguranik",
       "https://www.zzo.ba/hr/o-zavodu/o-zavodu",
@@ -1805,7 +1804,7 @@
     ]
   },
   "https://mzrss-zzh.com/": {
-    "hash": "b14f5753f18f13cf9c87207ceed3b1cac31f4cc4554375bcd005c30409148b60",
+    "hash": "1f6e01cf4cac0a97ddec338a196d76c93f6372af17725fbda908787de08ce544",
     "links": [
       "https://mzrss-zzh.com/cdn-cgi/l/email-protection",
       "https://mzrss-zzh.com/index.php/o-ministarstvu",
@@ -1911,7 +1910,7 @@
     ]
   },
   "https://zzofbih.ba/": {
-    "hash": "e9364f513c9183f4468422eebce6491aed573b199d6c6300c978812f6cb2631a",
+    "hash": "98c6623117c41e2973d4d2edc592c7ac2c339a6c5fe1d10dc5ce3025ec5f4442",
     "links": [
       "https://goo.gl/maps/QAqdmbVHvWjXdgoH6",
       "https://zzofbih.ba/",
@@ -1963,7 +1962,7 @@
     ]
   },
   "https://www.zupanijaposavska.ba/": {
-    "hash": "8d4177d14011c658e3ed7219332d0bdc5d2f1f22e6bfd1b88aa519de807acbe4",
+    "hash": "058a90731a21c40820f7ccea26eeaf7684833765f7ae7921e377ed57a2063954",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -2011,9 +2010,10 @@
       "https://www.zupanijaposavska.ba/category/ministarstva/ministarstvo-branitelja/",
       "https://www.zupanijaposavska.ba/obavijest-za-korisnike-egzistencijalne-naknade-ministarstva-branitelja-zp/",
       "https://www.zupanijaposavska.ba/category/posavina/",
-      "https://www.zupanijaposavska.ba/author/admin/",
       "https://www.zupanijaposavska.ba/gospodarstvo/",
+      "https://www.zupanijaposavska.ba/author/admin/",
       "https://www.zupanijaposavska.ba/domaljevac-samac/",
+      "https://www.zupanijaposavska.ba/turisticka-razglednica-posavine/",
       "https://www.zupanijaposavska.ba/category/ministarstva/",
       "https://www.facebook.com/zupanijaposavska/",
       "https://www.zupanijaposavska.ba/category/vijesti/",
@@ -2064,7 +2064,7 @@
     ]
   },
   "https://mz.ks.gov.ba/": {
-    "hash": "f3735f6dcdcfafff8cd3f6d916888ec5db74da1823b96ded3e8eaf8c282b97aa",
+    "hash": "948a80c23969dd7a5d567704f0d76a4f3f1f2208e4da34c8a61d5b2c1f7f2287",
     "links": [
       "https://mz.ks.gov.ba/",
       "https://mz.ks.gov.ba/kontakti",
