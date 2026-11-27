@@ -1,6 +1,6 @@
 {
   "https://vladausk.ba/v4/": {
-    "hash": "4bbcbfdd67df9c42d4a6f15fa424ababba67c7062e4852af286c3704c740ad58",
+    "hash": "c06357cf5b3bfb5ec02e26b62b8683201f4e65cf5c965dd228fc12067c47e780",
     "links": []
   },
   "https://zzousk.ba/": {
@@ -46,7 +46,7 @@
     ]
   },
   "https://zdk.ba/vlada": {
-    "hash": "ee7fc80fb1fe3f5a02a649bf554174c30d72d1ccab4bc85c5d60f02c4bb4e318",
+    "hash": "a13a215ad780fbacdc6e40d196ff593b88b6ce1c817c745af1712315e85e842a",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -115,7 +115,7 @@
     ]
   },
   "https://zdk.ba/ministarstva/ministarstvo-zdravstva": {
-    "hash": "a37936d108a26582b45fbf362c52ed73ba2473ae6898ad12bfbabd63c8ba1663",
+    "hash": "43728cdb0f4a490bd1c3ef1d9e67ec27283f00a9baecef4e9a3883bbd35fbd8b",
     "links": [
       "https://zdk.ba/",
       "https://zdk.ba/skupstina-zdk",
@@ -257,7 +257,7 @@
     ]
   },
   "https://fzobrcko.ba/": {
-    "hash": "c24e420ea9e49d372e8803874ba7ba2ae94f20fd669cc42a2b2f3c30be5dffa4",
+    "hash": "8237ae684febf9446dbc8176b8f0d5abd6f62614a209269cd743e20370080e46",
     "links": [
       "https://fzobrcko.ba/",
       "https://fzobrcko.ba/obavezno-osiguranje",
@@ -299,7 +299,7 @@
     ]
   },
   "https://www.fmoh.gov.ba/": {
-    "hash": "a470dada100187b00a52cec94882c4bb562b448984184cd1feb1cc2f0b343e4b",
+    "hash": "b2125dd13ddbe4195f10d96a6826c9382c70ae100a5c5456e577878ddf5c7318",
     "links": [
       "https://fmoh.gov.ba/stranica/7/ministar",
       "https://fmoh.gov.ba/stranica/9/centar-za-transplantacijsku-medicinu",
@@ -376,7 +376,7 @@
     ]
   },
   "https://vladars.rs/sr-SP-Cyrl/Vlada/Ministarstva/MZSZ/Pages/default.aspx": {
-    "hash": "3759f4789301acc35a96eb4c8f8fbc9272b6cbd0d6c1ee896d7b9b1190828976",
+    "hash": "a9d35041c35dbce6f610ef4b6b0af492abdfa877a630c1f5e1fb9b21308c03dc",
     "links": [
       "https://www.facebook.com/VladaRepublikeSrpske/",
       "https://www.instagram.com/vlada_srpske/",
@@ -469,7 +469,7 @@
     ]
   },
   "https://zdravstvo-srpske.org/": {
-    "hash": "1da09bfe8a9e7fc1920e6a6d86864bd7d2ea783e56dc8d5df8f7d31162863419",
+    "hash": "a3b332128d94aae4106223f872a0a559449b9a82a3272af0ddba509bf6e52b89",
     "links": [
       "https://www.google.com/maps/place/Health+insurance+fund+of+RS/@44.7720556,17.1810581,17z/data=!3m1!4b1!4m6!3m5!1s0x475e031e0b0be64b:0x2d58e83da825977d!8m2!3d44.7720518!4d17.183633!16s%2Fg%2F1ptwq49wj?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D",
       "https://zdravstvo-srpske.org/o-fondu/o-nama/organi-fonda/",
@@ -569,11 +569,11 @@
     ]
   },
   "https://www.zzobpk.ba/": {
-    "hash": "6f47c7aef921997c55a1da82e5dfb6635a2c2a61ed91e375ee8184263cfff90a",
+    "hash": "a65b616af245722a043675b42952b3236106e477efe5b099d6197a17d20ca3bf",
     "links": []
   },
   "https://vlada.ks.gov.ba/": {
-    "hash": "ad9fbe7ab430b90317cefd335ef492555dcda22f746d160fd626ded19941a617",
+    "hash": "aa1c7699b8d8412b5a242704460937eaa1c321d83014a2105f7a553957e7578f",
     "links": [
       "https://vlada.ks.gov.ba/",
       "https://www.facebook.com/vladakantonasarajevo/",
@@ -717,11 +717,11 @@
     ]
   },
   "https://vladausk.ba/v4/index/ministarstvo-zdravstva-i-socijalne-politike/8": {
-    "hash": "36a56d64f9132d7071520c31720ed22393b7e554bd5fd7f65a73ce6def5e78fb",
+    "hash": "4831bc5debc315427a7e24afab6da9f741945373b202808f0409f6863eff7507",
     "links": []
   },
   "https://www.zupanijaposavska.ba/ministarstvo-zdravstva-i-socijalne-politike/": {
-    "hash": "40fa478d9d42f00707238ea04f63685460b37784c47a46f2cc4de52792a58eab",
+    "hash": "a79a74a748792f9d0a4b8ade80ff34a9153d617d0f74dc844c1e1250a25feca0",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -764,7 +764,7 @@
     ]
   },
   "https://www.zzozp.ba/": {
-    "hash": "775c4be4de74a987fe50197dd124b4f10050c7fa35d32b9f9981c38d202de4f4",
+    "hash": "a39de6cb9fb7ca69e8c01f095ea8fc3c06567e2dec9592b060a12e6eeeacc0fd",
     "links": [
       "https://www.zzozp.ba/",
       "https://www.zzozp.ba/index.php/about",
@@ -788,7 +788,7 @@
     ]
   },
   "https://www.vladatk.kim.ba/": {
-    "hash": "9dcd988cc8988ab15c6b8f1fbc4f35250db95c4750de37080bb42d51dd84063d",
+    "hash": "fd25e2b555f09fbf0a005a4d28f0f3e6d99101f048703bc463096b8688fd4719",
     "links": [
       "https://www.vladatk.kim.ba/lang/ba",
       "https://www.vladatk.kim.ba/lang/hr",
@@ -1106,7 +1106,7 @@
     ]
   },
   "https://mztk.ba/": {
-    "hash": "9a027f63446ff146ca0d860110c5b92fb16a28b16e53b573eb2dc4ffb57d3a93",
+    "hash": "60da5761cf79397b4c7a614ccb5d45ea9d4450df33c8b7b607375b47c2806e93",
     "links": [
       "https://mztk.ba/o-ministarstvu",
       "https://mztk.ba/organizaciona-struktura",
@@ -1280,7 +1280,7 @@
     ]
   },
   "https://sbk-ksb.gov.ba/": {
-    "hash": "ec490919b40d7ee9b9606be65be935d1a107cb0fb555fa64ec1ac7b4617f00d9",
+    "hash": "e41e82307dcb7331d05ab58957e9d1e427eaca75c4837f88227445be94f96524",
     "links": [
       "https://skupstina.sabor.sbk-ksb.gov.ba/",
       "https://sbk-ksb.gov.ba/index.php/sjednice-vlade",
@@ -1330,11 +1330,11 @@
     ]
   },
   "https://www.vlada-hnz-k.ba/bs": {
-    "hash": "91fb257f67cac05498aec8696c1dd834f0664912659935a794f79daf0c36234a",
+    "hash": "e15885cf0844cb9c5c219ae66c5bf6c4b9963a21efef650dfcea5f68c58e019f",
     "links": []
   },
   "https://www.zzo.ba/": {
-    "hash": "f50bfa6af69bbd06f5bbb298f9d1396da1f7a7298b02d37beed892ff5f14b8fc",
+    "hash": "f701b936259f31675e8d7e1e38e41e4a48b6329fac241fd12fdafa78126e2987",
     "links": [
       "https://www.zzo.ba/hr/eosiguranik",
       "https://www.zzo.ba/hr/o-zavodu/o-zavodu",
@@ -1450,7 +1450,7 @@
     ]
   },
   "https://mzrss-zzh.com/": {
-    "hash": "a2b44a2f7034380eb4a3279abd7b45803d41e9483158176bbd71c458f6f6564b",
+    "hash": "ce2832bfbd6d7dd326d5376897ff16829cbbb36290564be93915ed920cf6fd6a",
     "links": [
       "https://mzrss-zzh.com/cdn-cgi/l/email-protection",
       "https://mzrss-zzh.com/index.php/o-ministarstvu",
@@ -1556,11 +1556,11 @@
     ]
   },
   "https://zzofbih.ba/": {
-    "hash": "dfc54d6c985c9136aa5f98913eb3e5eb64a799a3362fdcbfed9a4e861de4c2fa",
+    "hash": "6afd56be38ff512310a4077b4f3bba6226c8c9d671faf6ce7c16a2043d90f3d1",
     "links": []
   },
   "https://www.zupanijaposavska.ba/": {
-    "hash": "5ced37b117e2139f30de5ca0efb21bc5dd73403ed04bd3964681b43121aa5980",
+    "hash": "2b209e995bf4e163f88e56a40cc1de6701ab39a72ddaca0a10d56aae6b46021b",
     "links": [
       "https://www.facebook.com/zupanijaposavska",
       "https://www.zupanijaposavska.ba/",
@@ -1606,7 +1606,7 @@
       "https://www.zupanijaposavska.ba/obavijest-o-neradnom-danu-30/",
       "https://www.zupanijaposavska.ba/kolona-sjecanja-orasje-vukovar-5/",
       "https://www.zupanijaposavska.ba/category/posavina/",
-      "https://www.zupanijaposavska.ba/turisticka-razglednica-posavine/",
+      "https://www.zupanijaposavska.ba/gospodarstvo/",
       "https://www.zupanijaposavska.ba/author/admin/",
       "https://www.zupanijaposavska.ba/domaljevac-samac/",
       "https://www.zupanijaposavska.ba/category/ministarstva/",
@@ -1660,7 +1660,7 @@
     ]
   },
   "https://mz.ks.gov.ba/": {
-    "hash": "ba117e99f63bb400dac28056ed48386f42dfe67ed206895f7aed5ab13ae60d14",
+    "hash": "cebab747330caf908de34455454052235f172e6d6547d19d67667c4995ee7de7",
     "links": [
       "https://mz.ks.gov.ba/",
       "https://mz.ks.gov.ba/kontakti",
@@ -1719,11 +1719,11 @@
     ]
   },
   "https://www.vladahbz.com/ministarstva/ministarstvo-rada-zdravstva-socijalne-skrbi-i-prognanih/": {
-    "hash": "e451b94969394b85eb3d072aae360a9cb402ffdcc6cd35fa825327bb2d680438",
+    "hash": "b85b592d2d111ff85b2c3b8ab15dab9fef578cb8bbb71cd115a4cfd3cb5c5391",
     "links": []
   },
   "https://sbk-ksb.gov.ba/index.php/ministarstva/main-92-ministarstvo-zdravstva-i-socijalne-politike": {
-    "hash": "5550a0e6c47dae1f2f7fcc91f9fcaac58b10458e949377a94fcb2641b6fc2bf7",
+    "hash": "0b19a4a436d268f959756b89dd2c09bbd0a0b6708c18287ad11320daa5bd5634",
     "links": [
       "https://skupstina.sabor.sbk-ksb.gov.ba/",
       "https://sbk-ksb.gov.ba/index.php/sjednice-vlade",
